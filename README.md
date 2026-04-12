@@ -1,16 +1,25 @@
-## Hi there 👋
+# 馬場偲（Baba Shinobu）
 
-<!--
-**shinobu-kun/shinobu-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+自宅葬の普及と、地域の弔い文化の再構築に取り組んでいます。  
+株式会社鎌倉自宅葬儀社 運営責任者。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏠 活動・仕事
+
+- 自宅葬の施行・相談対応（現場経験20年以上）
+- 自宅葬の啓蒙コンテンツ発信（note・SNS）
+- 葬儀費用の透明化・セカンドオピニオン葬儀社としての情報提供
+- 自力葬サービスの設計・マニュアル制作
+
+## 💡 目指していること
+
+葬儀を「業者に任せるもの」から「家族が主体的に選ぶもの」へ。  
+鎌倉を拠点に、人を思う文化を地域から再構築しています。
+
+## 🔗 リンク
+
+- 🌐 [鎌倉自宅葬儀社](https://kamakura-jitakusou.com/)
+- ❌ [X](https://x.com/jitakusou)
+- 📷 [instagram](https://www.instagram.com/jitakusou)
+- 📝 [note](https://note.com/shinobu0313_1124)
